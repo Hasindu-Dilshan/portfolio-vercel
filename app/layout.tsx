@@ -13,12 +13,15 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: '[Your Name] - Web Developer',
+	title: 'Hasindu Dilshan - Software Engineer',
 	description:
-		'Welcome to my portfolio! I am a passionate web developer creating modern, responsive, and user-friendly websites. Specializing in frontend technologies and interactive user interfaces, I build engaging web experiences that make an impact.',
+		'Welcome to my portfolio! I am a passionate software engineer creating modern, responsive, and user-friendly websites. I build engaging web experiences that make an impact.',
 	keywords: [
 		'Web Developer',
 		'Frontend Developer',
+		'Backend Developer',
+		'Full Stack Developer',
+		'Software Engineer',
 		'React Developer',
 		'Next.js',
 		'JavaScript',

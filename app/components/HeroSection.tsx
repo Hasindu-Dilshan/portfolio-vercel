@@ -48,7 +48,7 @@ export const HeroSection = () => {
 
 						{/* Tech Stack Pills */}
 						<div className="flex flex-wrap justify-center gap-2 sm:gap-3 mt-6 sm:mt-8 px-4 sm:px-0">
-							{['HTML', 'CSS', 'Javascript', ,'React', 'MongoDB', 'MySQL', 'Express.js', 'Git', 'Docker', 'Bash'].map((tech) => (
+							{['HTML', 'CSS', 'JS', ,'React', 'MongoDB', 'MySQL', 'Express.js', 'Git', 'Docker', 'Bash', 'Python'].map((tech) => (
 								<span
 									key={tech}
 									className="px-3 sm:px-4 py-1 sm:py-1.5 bg-gray-100 rounded-full text-sm font-medium text-gray-700 border border-gray-200 hover:border-blue-500/50 transition-colors"
@@ -79,7 +79,7 @@ export const HeroSection = () => {
 					</div>
 
 					{/* Social Links */}
-					<div className="flex justify-center gap-4 sm:gap-6 mt-8 sm:mt-12">
+					{/* <div className="flex justify-center gap-4 sm:gap-6 mt-8 sm:mt-12">
 						{[
 							{ name: 'GitHub', icon: '🐙', href: '#' },
 							{ name: 'LinkedIn', icon: '💼', href: '#' },
@@ -90,7 +90,7 @@ export const HeroSection = () => {
 								<span className="text-xl sm:text-2xl group-hover:scale-110 transition-transform inline-block">{social.icon}</span>
 							</a>
 						))}
-					</div>
+					</div> */}
 				</div>
 			</div>
 
