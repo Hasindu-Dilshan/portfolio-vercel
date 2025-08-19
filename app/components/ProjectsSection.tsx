@@ -21,7 +21,7 @@ export const ProjectsSection = () => {
 								'Implemented cron-job scheduling using node-cron js',
 								'Implemented JWT Authentication using bcrypt js',
 								'Link: https://github.com/Hasindu-Dilshan/waste-wise-backend/'],
-							image: './code.jpg',
+							image: '/code.jpg',
 						},
 						{
 							title: 'MCQ Data Entry Application',
