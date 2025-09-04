@@ -48,7 +48,7 @@ export const HeroSection = () => {
 
 						{/* Tech Stack Pills */}
 						<div className="flex flex-wrap justify-center gap-2 sm:gap-3 mt-6 sm:mt-8 px-4 sm:px-0">
-							{['HTML', 'CSS', 'JS', ,'React', 'MongoDB', 'MySQL', 'Express.js', 'Git', 'Docker', 'Bash', 'Python'].map((tech) => (
+							{['HTML', 'CSS', 'JS', ,'React', 'Redux', 'Java', 'MongoDB', 'MySQL', 'Express.js', 'Git', 'Docker', 'Bash', 'Python', 'Linux', 'OpenCV', 'Tensorflow', 'Keras', 'YOLO'].map((tech) => (
 								<span
 									key={tech}
 									className="px-3 sm:px-4 py-1 sm:py-1.5 bg-gray-100 rounded-full text-sm font-medium text-gray-700 border border-gray-200 hover:border-blue-500/50 transition-colors"
